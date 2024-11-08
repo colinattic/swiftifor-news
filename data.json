@@ -1,0 +1,24 @@
+{
+    "news": [
+        {
+            "title": "Swiftifor's First Mission to the Moon",
+            "description": "Swiftifor is set to launch its first mission to the moon, aiming to explore new frontiers.",
+            "image": "https://pbs.twimg.com/media/GbzLt0ebwAMRKaP?format=jpg&name=small"
+        },
+        {
+            "title": "New Space Telescope Unveils Hidden Stars",
+            "description": "Swiftifor's latest telescope reveals new details about distant stars and galaxies.",
+            "image": "https://pbs.twimg.com/media/GbsECGobsAACKL6?format=jpg&name=small"
+        },
+        {
+            "title": "Mars Rover Sends Back Stunning Images",
+            "description": "Images from Swiftifor's Mars rover capture the stunning landscapes of the Red Planet.",
+            "image": "https://pbs.twimg.com/media/GbtbFnxaoAAD_KJ?format=jpg&name=small"
+        }
+    ],
+    "imageOfTheDay": {
+        "title": "Free Palestaine",
+        "description": "We deeply feel the pain and stuggle of the Palestinian peoples. we stand firmly with them in their pursuit of peace, justice, and dignity.",
+        "image": "https://pbs.twimg.com/media/GbomMZYbQAAuKgQ?format=jpg&name=small"
+    }
+}
